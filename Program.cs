@@ -1,4 +1,6 @@
-﻿/*
+Задачу номер 8 моя никак не осилит :(
+
+/*
 Console.WriteLine("Введите число");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number % 2 == 0)
